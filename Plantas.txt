@@ -13,3 +13,8 @@ Olivo
 
 Cacao
 Ceiba
+
+Cerezo
+Pera
+Manzano
+Zapote
