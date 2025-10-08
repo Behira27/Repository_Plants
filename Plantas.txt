@@ -2,3 +2,7 @@ Pinos
 Abetos
 Cedros
 Cipreses
+
+Olmo
+Arce
+Nogal
