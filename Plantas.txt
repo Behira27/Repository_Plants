@@ -6,3 +6,7 @@ Cipreses
 Olmo
 Arce
 Nogal
+
+Encino
+Eucalipto
+Olivo
